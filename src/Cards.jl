@@ -1,5 +1,5 @@
 module Cards
 
-greet() = print("Hello World! from Cards")
+greet() = println("Hello World! from Cards")
 
 end # module
